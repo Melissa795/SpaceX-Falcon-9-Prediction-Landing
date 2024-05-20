@@ -3,8 +3,10 @@ Questo progetto si propone di applicare la metodologia di Data Science per affro
 
 ### Metodologia di Data Science
 #### 1-Raccolta dei Dati
-Data Sources: I dati sono stati raccolti da diverse fonti, compresi dataset pubblici, API, file CSV e altro ancora.
-Data Collection: Sono stati utilizzati metodi appropriati per acquisire i dati, inclusi web scraping, query API e download di file.
+##### Data Sources
+I dati sono stati raccolti da diverse fonti, compresi dataset pubblici, API, file CSV e altro ancora.
+##### Data Collection
+Sono stati utilizzati metodi appropriati per acquisire i dati, inclusi web scraping, query API e download di file.
 #### 2-Data Wrangling
 Data Cleaning: I dati raccolti sono stati esaminati per individuare e correggere eventuali errori, dati mancanti o inconsistenze.
 Data Preprocessing: Le trasformazioni e le normalizzazioni sono state applicate per preparare i dati per l'analisi e la modellazione.
